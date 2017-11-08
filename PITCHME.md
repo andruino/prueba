@@ -1,15 +1,17 @@
-# Flux 
+# GITPITCH 
 
-An application architecture for React
+Presentaciones en Markdown
 
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+Paco Lopez 2017
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### Gitpich
+
+- [Gitpich en 60 segundos](https://github.com/gitpitch/in-60-seconds) 
+- [Presentacion Gitpich] (https://gitpitch.com/gitpitch/gitpitch#/)
+- 
+
+---
+
+![Puente](http://asiestriana.es/wiki/images/5/57/PuenteTriana.jpg)
